@@ -1,0 +1,36 @@
+h1{
+    display: inline-block;
+    color: red;
+    background-color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    border-radius: 30px;
+}
+
+.title{
+    color: black;
+    width: 500px;
+}
+
+button{
+    color: blue;
+    background-color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+
+}
+div{
+    text-align: center;
+    border-radius: 100%;
+    background-color: lightcoral;
+    
+}
+body{
+  background-color: black;  
+}
